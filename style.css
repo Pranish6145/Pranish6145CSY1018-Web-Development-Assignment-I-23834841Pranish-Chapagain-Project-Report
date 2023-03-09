@@ -1,6 +1,7 @@
 body {
     margin:0px;
-    
+  background-color:#F4A460;
+  font-family: 'Tilt Neon';
 }
 .Velocity {
     margin:0px;
@@ -12,7 +13,7 @@ body {
 }
 
 nav {
-    background-color: rgb(255, 240, 248);
+    background-color: rgb(5, 5, 5);
     overflow:hidden;
     width: 100%;
     
@@ -22,18 +23,22 @@ nav ul {
     padding:0px;
     margin:0px;
     display: flex;
+    margin: auto;
+    color: blueviolet;
+    
 }
 nav li {
     float:left;
 }
 nav li a {
     display:block;
-    color: blue;
+    color:blue;
     text-align: center;
     padding: 20px 20px;
     text-decoration: none;
     margin-bottom: auto;
     border-color: darkcyan;
+    font-size: x-large;
 }
 nav li a:hover {
     background-color: rgb(58, 165, 42);
@@ -43,7 +48,7 @@ nav li a:hover {
     text-align: center;
     text-decoration-color: crimson;
 }
-h1 {
+.Parenchyma {
     color: red;
     margin: 250px;
     padding:0px;
@@ -55,4 +60,21 @@ button {
     text-decoration: none;
     display:inline-block;
     padding:12px,3px;
+}
+.Pranish {
+    justify-content:center;
+    display:flex;
+}
+.Sclerenchyma {
+        background-image: url(Images/1678287329476.jpg);
+        text-align: center;
+        background-color: black;
+        color: brown;
+        margin:50px;
+        padding:50px;
+}
+.PTE {
+    position: absolute;
+    bottom: 100px;
+    
 }
