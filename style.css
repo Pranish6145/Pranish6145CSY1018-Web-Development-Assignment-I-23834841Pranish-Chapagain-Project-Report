@@ -166,3 +166,42 @@ row-gap: 40px;
     border-radius: 5px;;
 
 }
+footer {
+    position:unset;
+    bottom:0px;
+    width:100%;
+    background-color: rgb(0, 0, 0);
+    color: cadetblue;
+}
+.main-content {
+    display:flex;
+}
+.main-content .box {
+    flex-basis:51%;
+    padding:0px;
+    margin: 20px;
+}
+.box h2 {
+    font-size:1.127rem;
+    font-weight: 600;
+    text-transform:uppercase;
+}
+.box .content {
+    margin: 20px 0 0 0;
+}
+.left .content p{
+    text-align: justify;
+}
+.left .content .social a span {
+    height:41px;
+    width:41px;
+    background: #f3f5d3;
+    line-height: 41px;
+    text-align: center;
+    font-size: 19px;
+    border-radius:7px;
+    transition: 0.4s;
+}
+.left .content .social a span:hover {
+background:#c21313
+}
