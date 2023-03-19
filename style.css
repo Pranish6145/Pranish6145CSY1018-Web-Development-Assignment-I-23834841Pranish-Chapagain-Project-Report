@@ -12,6 +12,13 @@ body {
     width: 100%;
     
 }
+.Density img {
+    width:100px;
+    height: 100px;
+    position: absolute;
+    bottom:87%;
+    left:0%;
+}
 .Density ul {
     list-style-type: none;
     padding:0px;
@@ -33,6 +40,15 @@ body {
     border-color: darkcyan;
     font-size:20px;
     margin:0px;
+}
+.Density li a:hover {
+    background-color: burlywood;
+    color: darkcyan;
+    font-size: 17px;
+    height:5px;
+    top:0;
+    z-index: 0;
+
 }
 .Hockey {
     padding:37px;
