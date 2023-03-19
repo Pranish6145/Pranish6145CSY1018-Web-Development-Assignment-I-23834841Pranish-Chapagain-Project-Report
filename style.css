@@ -258,3 +258,9 @@ display:none;
 .bag h1 {
     text-align: center;
 }
+.bag img {
+    margin: 20px;
+    height: 500px;
+    width:720px;
+    left:15%;
+}
