@@ -12,6 +12,7 @@ body {
     width: 100%;
     
 }
+/*For my photo*/
 .Density img {
     width:100px;
     height: 98px;
@@ -39,6 +40,7 @@ body {
     border-color: darkcyan;
     font-size:20px;
 }
+/*For hover */
 .Density li a:hover {
     background-color: rgb(62, 29, 207);
     color: rgb(231, 22, 22);
@@ -150,7 +152,7 @@ margin-right: 0%;
     border-radius:10px;
     border:4px solid black;
 }
-
+/*for the footer of the page*/
 footer {
     position:unset;
     bottom:0px;
@@ -188,6 +190,7 @@ footer {
     margin: 50px auto;
     border-radius: 1rem;
 }
+/*For the only column of this page*/
 .column-Mango {
 justify-content: center;
 padding: 25px;
@@ -241,6 +244,7 @@ display:none;
    
     }
 }
+/*For the flex of last page*/
 .container-Kiwi {
     display: flex;
     justify-content:left;
@@ -250,7 +254,7 @@ display:none;
     margin: 20px auto;
     padding:15px;
     border-radius: 1.5rem;
-
+/*For the content of Site-report*/
 }
 .bag {
     margin: 0px;
