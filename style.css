@@ -14,10 +14,9 @@ body {
 }
 .Density img {
     width:100px;
-    height: 100px;
+    height: 98px;
     position: absolute;
     bottom:87%;
-    left:0%;
 }
 .Density ul {
     list-style-type: none;
@@ -39,15 +38,14 @@ body {
     text-decoration: none;
     border-color: darkcyan;
     font-size:20px;
-    margin:0px;
 }
 .Density li a:hover {
-    background-color: burlywood;
-    color: darkcyan;
-    font-size: 17px;
+    background-color: rgb(62, 29, 207);
+    color: rgb(231, 22, 22);
+    font-size: 22px;
     height:5px;
     top:0;
-    z-index: 0;
+    padding: 0%;
 
 }
 .Hockey {
