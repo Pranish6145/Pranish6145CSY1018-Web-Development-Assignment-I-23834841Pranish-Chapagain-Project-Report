@@ -241,3 +241,20 @@ display:none;
    
     }
 }
+.container-Kiwi {
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    background-color: cadetblue;
+    width: 450px;
+    margin: 20px auto;
+    padding:15px;
+    border-radius: 1.5rem;
+
+}
+.bag {
+    margin: 0px;
+}
+.bag h1 {
+    text-align: center;
+}
